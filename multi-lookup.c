@@ -1,7 +1,6 @@
 /*
  * File: multi-lookup.c
  * Author: Bradley Arnot
- * Assignment: CSCI 3753 Programming Assignment 3
  * Create Date: 02/27/2016
  * Modify Date: 03/06/2016
  * Description:
